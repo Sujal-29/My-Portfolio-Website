@@ -1,7 +1,7 @@
 import React from 'react'
 import './about.css'
-import AboutImg from '../../assets/profile.jpeg'
-import CV from '../../assets/Vishal_s_Resume_12_07_25.pdf'
+import AboutImg from '../../assets/profile.jpg'
+import CV from '../../assets/Sujal_Gautam_Resume.pdf'
 import Info from './Info'
 
 const About = () => {
@@ -15,9 +15,9 @@ const About = () => {
         <div className='about__data'>
           <Info />
 
-          <p className='about__description'>I am currently pursuing a 
-            Bachelor's degree in Computer Science and Engineering, specialise in building dynamic, scalable applications and 
-            leveraging Gen AI for innovative solutions. As an active National Cadet Corps (NCC) cadet, I embrace leadership, teamwork, and community service. Additionally, I am a geopolitics enthusiast, exploring the intersection of technology, AI, and global affairs.
+          <p className='about__description'>I am Sujal Gautam, Currently pursuing Bachelor's Degree in Computer Science and Engineering student at Maharaja Agrasen Institute of Technology, Delhi.
+             I specialize in building scalable, full-stack web applications using React.js, Next.js, Node.js, and MongoDB, with hands-on experience from internships at Cantilever and BlueStock Fintech and Personal Projects.
+              Currently expanding my expertise into Generative AI to craft intelligent, high-impact software solutions. Beyond code, I'm an avid problem-solver with 300+ DSA problems under my belt and a sports enthusiast who brings the same competitive drive to everything I do.
           </p>
 
           <a target="_blank" rel="noreferrer" href={CV} className='button button--flex'>View CV

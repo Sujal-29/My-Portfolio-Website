@@ -1,12 +1,13 @@
 <div align="center">
-  <img src="https://github.com/iamvishalrathi/My-PortFolio-Website/blob/main/public/favicon-white.png" alt="Portfolio Logo" width="100" height="100"/>
+  <img src="./public/favicon-white.png" alt="Portfolio Logo" width="100" height="100"/>
   
-  # Vishal Kumar's Portfolio
+  # Sujal Gautam's Portfolio
   
-  [![Website](https://img.shields.io/badge/Website-Live-brightgreen)](https://iamvishalkumar.me/)
-  [![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black)](https://github.com/iamvishalrathi/My-PortFolio-Website)
+  [![Website](https://img.shields.io/badge/Website-Live-brightgreen)](#)
+  [![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black)](https://github.com/Sujal-29/My-PortFolio-Website)
   [![React](https://img.shields.io/badge/React-18.2.0-blue)](https://reactjs.org/)
 </div>
+
 
 ## 👋 Welcome
 
@@ -44,10 +45,10 @@ I'm a Full Stack Developer based in New Delhi, highly passionate about programmi
 
 You can explore the portfolio live by visiting:
 
-[**Vishal Kumar - Preview the Portfolio**](https://iamvishalkumar.me/)
+[**Sujal Gautam - Preview the Portfolio**](#)
 
 ### 📸 Screenshot
-![Portfolio Preview](https://github.com/iamvishalrathi/My-PortFolio-Website/blob/main/public/live.png)
+![Portfolio Preview](./public/live.png)
 
 ## 🚀 Getting Started
 
@@ -60,7 +61,7 @@ You can explore the portfolio live by visiting:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/iamvishalrathi/My-PortFolio-Website.git
+git clone https://github.com/Sujal-29/My-PortFolio-Website.git
 ```
 
 2. Navigate to the project directory:
@@ -117,9 +118,9 @@ I'm always open to discussing new projects, creative ideas, or opportunities to 
 
 ### Contact Details
 
-- 📧 **Email:** [vishalkumar4work@gmail.com](mailto:vishalkumar4work@gmail.com)
-- 🌐 **Website:** [iamvishalkumar.me](https://iamvishalkumar.me/)
-- 💼 **GitHub:** [@iamvishalrathi](https://github.com/iamvishalrathi)
+- 📧 **Email:** [sujalgautams.g.29@gmail.com](mailto:sujalgautams.g.29@gmail.com)
+-- 🌐 **Website:** [#](#)
+-- 💼 **GitHub:** [@Sujal-29](https://github.com/Sujal-29)
 
 ## 📄 License
 
@@ -128,5 +129,5 @@ This project is open source and available for personal and educational use.
 ---
 
 <div align="center">
-  <sub>Built with ❤️ by Vishal Kumar</sub>
+  <sub>Built with ❤️ by Sujal Gautam</sub>
 </div>

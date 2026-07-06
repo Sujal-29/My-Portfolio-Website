@@ -3,7 +3,7 @@ import React from 'react'
 const Data = ({ isDark }) => {
   return (
     <div className='home__data'>
-      <h1 className='home__title'>Vishal Kumar
+      <h1 className='home__title'>Sujal Gautam
         <img
           src={isDark ? '/favicon-white.png' : '/favicon.png'}
           alt='Vishal Kumar'
@@ -12,7 +12,7 @@ const Data = ({ isDark }) => {
       </h1>
       <h3 className='home__subtitle'>{`<h3> Full Stack Developer </h3>`}</h3>
       <p className='home__description'>
-        I am a Full Stack Developer, Gen AI enthusiast with 6+ months of experience in MERN and Next.js, completed 20+ projects and 10x hackathons participant.
+        I am a Full Stack Developer, Gen AI enthusiast with 6+ months of experience in MERN and Next.js, completed 10+ projects and 5x hackathons participant.
       </p>
 
       <a href='#contact' className='button button--flex'>Say Hello

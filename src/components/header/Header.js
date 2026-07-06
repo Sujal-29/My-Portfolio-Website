@@ -72,14 +72,14 @@ const Header = ({ isDark, toggleTheme }) => {
     { href: '#skills', icon: 'file-alt', text: 'Skills' },
     { href: '#qualifications', icon: 'briefcase-alt', text: 'Qualifications' },
     { href: '#portfolio', icon: 'scenery', text: 'Projects' },
-    { href: '#featured', icon: 'star', text: 'Featured' },
+    // { href: '#featured', icon: 'star', text: 'Featured' },
     { href: '#contact', icon: 'message', text: 'Contact' }
   ]
 
   return (
     <header className='header'>
       <nav className='nav container'>
-        <a href='#home' className='nav__logo'>Vishal Kumar</a>
+        <a href='#home' className='nav__logo'>Sujal Gautam</a>
         <div className={`nav__menu ${toggle ? 'show-menu' : ''}`}>
           <ul className='nav__list grid'>
             {navLinks.map(({ href, icon, text }) => (
